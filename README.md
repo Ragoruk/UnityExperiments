@@ -12,3 +12,8 @@ Experimenting with Unity5 built-in host to peer networking
 # GamePhysics
 Work in progress game physics project following Ben Tristem's Game Physics course from Udemy
 https://www.udemy.com/gamephysics/
+
+# 7 Wonders
+Work in progress exercise to convert a board game into online multiplayer
+https://en.wikipedia.org/wiki/7_Wonders_(board_game)
+Attempted to create an authorative server-client model using Unity 5's builtin network manager with the host being the "authorative" server. However, found difficulties to reliably track players with their empires making interactions between players very difficult. May have to create my own network manager.
